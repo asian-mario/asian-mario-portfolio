@@ -75,12 +75,7 @@ const Contact = () => {
             </span>
             KL, Malaysia
           </p>
-          <p className="flex justify-between w-full text-lg text-[#ccc] py-4 border-b-[1px] border-b-zinc-800">
-            <span className="bg-designColor text-gray-700 text-sm font-titleFont font-medium px-2 rounded-md flex items-center justify-center">
-              Phone:
-            </span>
-            +60 178838505
-          </p>
+        
         </div>
         <div className="w-full lgl:w-1/2">
           <p className="flex justify-between lgl:gap-6 w-full text-lg text-[#ccc] py-4 border-b-[1px] border-b-zinc-800">
