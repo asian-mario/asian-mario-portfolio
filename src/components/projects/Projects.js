@@ -38,6 +38,11 @@ const Projects = () => {
             image={workImgFive}
           />
           </a>
+          <ProjectsCard
+            title="PathGen"
+            category="AI-Powered Pathogen Identification"
+            image={workImgSeven}
+          />
         </div>
         <div className="px-6">
           <a href="https://klsmc.live/" target="_blank" rel="noopener noreferrer">
@@ -59,7 +64,6 @@ const Projects = () => {
             category="Unity Game"
             image={workImgEight}
           />
-
         </div>
       </div>
     </div>
