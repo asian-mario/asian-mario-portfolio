@@ -17,7 +17,7 @@ const Skills = () => {
           <div className="py-3 border-b-[1px] border-zinc-800">
             <p className="text-base text-textColor -mb-1.5">3D Modelling</p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
-              <span className="w-[90%] h-full absolute top-0 left-0 bg-selectColor"></span>
+              <span className="w-[85%] h-full absolute top-0 left-0 bg-selectColor"></span>
             </span>
           </div>
           {/* web Development */}
@@ -94,23 +94,17 @@ const Skills = () => {
           <div className="py-3 border-b-[1px] border-zinc-800">
             <p className="text-base text-textColor -mb-1.5">Python</p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
-              <span className="w-[60%] h-full absolute top-0 left-0 bg-selectColor"></span>
+              <span className="w-[70%] h-full absolute top-0 left-0 bg-selectColor"></span>
             </span>
           </div>
           {/* Mobile Application */}
           <div className="py-3 border-b-[1px] border-zinc-800">
-            <p className="text-base text-textColor -mb-1.5">JavaScript</p>
+            <p className="text-base text-textColor -mb-1.5">JavaScript/TypeScript</p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
-              <span className="w-[55%] h-full absolute top-0 left-0 bg-selectColor"></span>
+              <span className="w-[45%] h-full absolute top-0 left-0 bg-selectColor"></span>
             </span>
           </div>
           {/* UI Design */}
-          <div className="py-3 border-b-[1px] border-zinc-800">
-            <p className="text-base text-textColor -mb-1.5">Lua / C# </p>
-            <span className="w-full bg-zinc-600 h-1 inline-flex relative">
-              <span className="w-[50%] h-full absolute top-0 left-0 bg-selectColor"></span>
-            </span>
-          </div>
         </div>
       </div>
       <div className="w-full h-full hidden lgl:flex justify-center items-center">
@@ -142,7 +136,7 @@ const Skills = () => {
             <span className="text-designColor text-lg">
               <GiCheckMark />
             </span>
-            Library Creation (e.g ROSE / OSVI)
+            C++ Library Creation (e.g ROSE / OSVI)
           </li>
           <li className="flex items-center gap-4 text-textColor">
             <span className="text-designColor text-lg">
@@ -161,12 +155,6 @@ const Skills = () => {
               <GiCheckMark />
             </span>
             3D Modelling and Animation
-          </li>
-          <li className="flex items-center gap-4 text-textColor">
-            <span className="text-designColor text-lg">
-              <GiCheckMark />
-            </span>
-            Model and Animation Data Exports
           </li>
         </ul>
       </div>

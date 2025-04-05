@@ -45,25 +45,27 @@ const Projects = () => {
           />
         </div>
         <div className="px-6">
-          <a href="https://klsmc.live/" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/asian-mario/EasyOps" target="_blank" rel="noopener noreferrer">
           <ProjectsCard
-            title="KLSMC"
-            category="Website"
+            title="EasyOps"
+            category="Projects"
+            image={workImgTwo}
+          />
+          </a>
+          <a href="https://github.com/asian-mario/SFR-ESP32S" target="_blank" rel="noopener noreferrer">
+          <ProjectsCard
+            title="SFR-ESP32"
+            category="Systems Engineering"
             image={workImgFour}
           />
           </a>
-          <a href="https://asian-mario.github.io/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.artstation.com/asianmario" target="_blank" rel="noopener noreferrer">
           <ProjectsCard
             title="ByteBend Studios"
             category="Artstation"
             image={workImgSix}
           />
           </a>
-          <ProjectsCard
-            title="./rootme"
-            category="Unity Game"
-            image={workImgEight}
-          />
         </div>
       </div>
     </div>

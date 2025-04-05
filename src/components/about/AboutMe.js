@@ -7,7 +7,7 @@ const AboutMe = () => {
         <div className="py-6">
           <h2 className="font-semibold mb-1">Hi! I'm Rangga Gunarto</h2>
           <p className="text-base leading-6 ">
-            I'm an aspiring Computer Engineer currently doing my A-Levels in Malaysia, currently skilled and specialized in Graphics Development, High-Performance Graphics and 3D Modelling 
+            I'm an aspiring Computer Systems Engineer currently doing my A-Levels in Malaysia, currently skilled and specialized in Systems Engineering, High-Performance Graphics and 3D Modelling 
           </p>
         </div>
       </div>
@@ -15,7 +15,7 @@ const AboutMe = () => {
         <ul className="flex flex-col gap-1">
           <li className="aboutRightLi">
             <span className="aboutRightLiSpan">Age:</span>
-            16
+            17
           </li>
           <li className="aboutRightLi">
             <span className="aboutRightLiSpan">Residence:</span>

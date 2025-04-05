@@ -26,7 +26,7 @@ const MyServices = () => {
       <ServicesCard
         icons={<BsTrophyFill  />}
         title="MCO Competitor"
-        subTitle="An MCC Gold and MCO Competitor which are algorithmic programming competitions in Malaysia"
+        subTitle="An MCC Gold and MCO Competitor, National Level Competitions in Malaysia."
       />
     </div>
   );
