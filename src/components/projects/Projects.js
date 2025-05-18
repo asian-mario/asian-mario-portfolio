@@ -26,6 +26,13 @@ const Projects = () => {
             image={workImgThree}
           />
           </a>
+          <a href="https://github.com/asian-mario/autonomous-drone-poc" target="_blank" rel="noopener noreferrer">
+          <ProjectsCard
+            title="ADSS-poc"
+            category="Projects"
+            image={workImgSeven}
+          />
+          </a>
           <ProjectsCard
             title="OSVI"
             category="Projects"
@@ -37,12 +44,7 @@ const Projects = () => {
             category="Blog Website"
             image={workImgFive}
           />
-          </a>
-          <ProjectsCard
-            title="PathGen"
-            category="AI-Powered Pathogen Identification"
-            image={workImgSeven}
-          />
+          </a >
         </div>
         <div className="px-6">
           <a href="https://github.com/asian-mario/EasyOps" target="_blank" rel="noopener noreferrer">
