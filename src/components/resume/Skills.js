@@ -22,7 +22,7 @@ const Skills = () => {
           </div>
           {/* web Development */}
           <div className="py-3 border-b-[1px] border-zinc-800">
-            <p className="text-base text-textColor -mb-1.5">Systems Engineering</p>
+            <p className="text-base text-textColor -mb-1.5">Software Engineering</p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
               <span className="w-[82%] h-full absolute top-0 left-0 bg-selectColor"></span>
             </span>
@@ -30,7 +30,7 @@ const Skills = () => {
           {/* Mobile Application */}
           <div className="py-3 border-b-[1px] border-zinc-800">
             <p className="text-base text-textColor -mb-1.5">
-              Graphics Programming
+              Systems Engineering
             </p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
               <span className="w-[78%] h-full absolute top-0 left-0 bg-selectColor"></span>
@@ -38,9 +38,9 @@ const Skills = () => {
           </div>
           {/* UI Design */}
           <div className="py-3 border-b-[1px] border-zinc-800">
-            <p className="text-base text-textColor -mb-1.5">Software Engineering x64</p>
+            <p className="text-base text-textColor -mb-1.5">Graphics Programming & 3D API's</p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
-              <span className="w-[72%] h-full absolute top-0 left-0 bg-selectColor"></span>
+              <span className="w-[65%] h-full absolute top-0 left-0 bg-selectColor"></span>
             </span>
           </div>
         </div>
@@ -85,7 +85,7 @@ const Skills = () => {
         {/* web Design */}
         <div className="py-4">
           <div className="py-3 border-b-[1px] border-zinc-800">
-            <p className="text-base text-textColor -mb-1.5">CPP</p>
+            <p className="text-base text-textColor -mb-1.5">C++</p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
               <span className="w-[70%] h-full absolute top-0 left-0 bg-selectColor"></span>
             </span>
@@ -99,7 +99,7 @@ const Skills = () => {
           </div>
           {/* Mobile Application */}
           <div className="py-3 border-b-[1px] border-zinc-800">
-            <p className="text-base text-textColor -mb-1.5">JavaScript/TypeScript</p>
+            <p className="text-base text-textColor -mb-1.5">Rust</p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
               <span className="w-[45%] h-full absolute top-0 left-0 bg-selectColor"></span>
             </span>
@@ -130,7 +130,7 @@ const Skills = () => {
             <span className="text-designColor text-lg">
               <GiCheckMark />
             </span>
-            OpenAL / FMod
+            Rust Application Creation (e.g b-top / git-hydra)
           </li>
           <li className="flex items-center gap-4 text-textColor">
             <span className="text-designColor text-lg">
@@ -142,7 +142,7 @@ const Skills = () => {
             <span className="text-designColor text-lg">
               <GiCheckMark />
             </span>
-            High Performance Graphics
+            Blender API
           </li>
           <li className="flex items-center gap-4 text-textColor">
             <span className="text-designColor text-lg">

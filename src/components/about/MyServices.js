@@ -14,14 +14,14 @@ const MyServices = () => {
         subTitle="Experienced with a variety of platforms such as Arduino/RPI/ESP32 and experienced with creating projects with electrical components"
       />
       <ServicesCard
-        icons={<SiAntdesign />}
-        title="High-Performance Graphics"
-        subTitle="Creating a high-performance 2D/3D Engine, currently developing a single shader batch renderer with sprite sheet and collision support."
+        icons={<AiTwotoneAppstore />}
+        title="HCKL Founder"
+        subTitle="Founded a non-profit organization which strives to connect students from across Malaysia, inspiring interest in the field of programming through Hackathons and events."
       />
       <ServicesCard
-        icons={<AiTwotoneAppstore />}
-        title="3D Modelling"
-        subTitle="Specializing in Hardsurface 3D Modelling in order to create game-ready assets for development studios."
+        icons={<SiAntdesign />}
+        title="FOSS"
+        subTitle="Passionate in creating Free Open Source Software in a variety of fields such as: UNIX-tools, Game Engines, Blender Hardsurface Extensions etc."
       />
       <ServicesCard
         icons={<BsTrophyFill  />}

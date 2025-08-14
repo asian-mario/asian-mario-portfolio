@@ -11,6 +11,18 @@ const Education = () => {
         <ResumeTitle title="Experience & Achievements" icon={<MdWork />} />
         <ResumeCard
           badge="2025"
+          title="HCKL"
+          subTitle="Founder of HCKL"
+          des="Founded HCKL which is a non-profit organization funded by HCB to garner interest in the technological field for students across Malaysia through events."
+        />
+        <ResumeCard
+          badge="2025"
+          title="EnQuest"
+          subTitle="HCA Data Engineer Intern"
+          des="Specializing in data extraction and analaysis automation in modern HCA systems."
+        />
+        <ResumeCard
+          badge="2025"
           title="BPhO Silver"
           subTitle="British Physics Olympiad"
           des="A national-level British Physics Olympiad Competition where I placed Silver."
