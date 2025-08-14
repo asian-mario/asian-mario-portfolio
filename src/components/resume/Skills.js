@@ -130,7 +130,7 @@ const Skills = () => {
             <span className="text-designColor text-lg">
               <GiCheckMark />
             </span>
-            Rust Application Creation (e.g b-top / git-hydra)
+            Rust Application Creation (e.g b-top / git-hydra  )
           </li>
           <li className="flex items-center gap-4 text-textColor">
             <span className="text-designColor text-lg">

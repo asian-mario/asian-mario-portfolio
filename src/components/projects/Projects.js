@@ -26,6 +26,13 @@ const Projects = () => {
             image={workImgThree}
           />
           </a>
+          <a href="https://github.com/asian-mario/b-top">
+          <ProjectsCard
+            title="b-top"
+            category="Projects"
+            image={workImgOne}
+          />
+          </a>
           <a href="https://github.com/asian-mario/autonomous-drone-poc" target="_blank" rel="noopener noreferrer">
           <ProjectsCard
             title="ADSS-poc"
@@ -33,11 +40,6 @@ const Projects = () => {
             image={workImgSeven}
           />
           </a>
-          <ProjectsCard
-            title="OSVI"
-            category="Projects"
-            image={workImgOne}
-          />
           <a href="https://asian-mario.github.io/" target="_blank" rel="noopener noreferrer">
           <ProjectsCard
             title="asian-mario"
@@ -54,10 +56,10 @@ const Projects = () => {
             image={workImgTwo}
           />
           </a>
-          <a href="https://github.com/asian-mario/SFR-ESP32S" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/hckl-git" target="_blank" rel="noopener noreferrer">
           <ProjectsCard
-            title="SFR-ESP32"
-            category="Systems Engineering"
+            title="HCKL"
+            category="Community"
             image={workImgFour}
           />
           </a>
