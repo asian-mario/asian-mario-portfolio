@@ -17,14 +17,14 @@ const Skills = () => {
           <div className="py-3 border-b-[1px] border-zinc-800">
             <p className="text-base text-textColor -mb-1.5">3D Modelling</p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
-              <span className="w-[85%] h-full absolute top-0 left-0 bg-selectColor"></span>
+              <span className="w-[75%] h-full absolute top-0 left-0 bg-selectColor"></span>
             </span>
           </div>
           {/* web Development */}
           <div className="py-3 border-b-[1px] border-zinc-800">
             <p className="text-base text-textColor -mb-1.5">Software Engineering</p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
-              <span className="w-[82%] h-full absolute top-0 left-0 bg-selectColor"></span>
+              <span className="w-[72%] h-full absolute top-0 left-0 bg-selectColor"></span>
             </span>
           </div>
           {/* Mobile Application */}
@@ -33,14 +33,14 @@ const Skills = () => {
               Systems Engineering
             </p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
-              <span className="w-[78%] h-full absolute top-0 left-0 bg-selectColor"></span>
+              <span className="w-[68%] h-full absolute top-0 left-0 bg-selectColor"></span>
             </span>
           </div>
           {/* UI Design */}
           <div className="py-3 border-b-[1px] border-zinc-800">
             <p className="text-base text-textColor -mb-1.5">Graphics Programming & 3D API's</p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
-              <span className="w-[65%] h-full absolute top-0 left-0 bg-selectColor"></span>
+              <span className="w-[55%] h-full absolute top-0 left-0 bg-selectColor"></span>
             </span>
           </div>
         </div>
