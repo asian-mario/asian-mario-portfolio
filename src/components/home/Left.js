@@ -18,12 +18,13 @@ const Left = () => {
   return (
     <div className="w-full lgl:w-5/12 h-full bg-bodyColor rounded-2xl shadow-testShwdow z-10">
       <div className="w-full h-3/5">
-        <img
-          className="w-full h-full object-cover rounded-2xl"
-          src={bannerImg}
-          loading="priority"
-          alt="bannerImage"
-        />
+      <img
+        className="w-full h-full object-cover rounded-2xl "
+        src={bannerImg}
+        loading="priority"
+        alt="bannerImage"
+      />
+
       </div>
       <div className="w-full h-2/5 flex flex-col justify-between border-t-0 rounded-bl-xl rounded-br-xl">
         <div className="flex flex-col items-center gap-2 py-10">
