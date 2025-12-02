@@ -26,9 +26,9 @@ const Projects = () => {
             image={workImgThree}
           />
           </a>
-          <a href="https://github.com/asian-mario/b-top">
+          <a href="https://github.com/asian-mario/r-top">
           <ProjectsCard
-            title="b-top"
+            title="r-top"
             category="Projects"
             image={workImgOne}
           />
